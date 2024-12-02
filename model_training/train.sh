@@ -1,0 +1,1 @@
+python3 train_models.py --net deit --bs 32 --n_epochs 50
