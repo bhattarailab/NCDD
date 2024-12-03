@@ -3,7 +3,7 @@
 
 ![Clinical Overview](https://github.com/bhattarailab/NCDD/blob/main/intro.png)
 
-**Landscape of clinical procedures in gastrointestinal vision**. _Orange_: Unassisted, a doctor has to assess all patients’ data tediously and redundantly. _Blue_: Artificial Intelligence can help in the classification of known or seen diseases but makes misleading assumptions and often overconfident predictions on images when it faces real-world examples consisting of examples that it had never seen. _Green_: A combination of human intervention and OOD enabled AI method to improve efficacy in the current scenario, where a specialist intervenes to correct any unseen or unknown instances that the AI model is uncertain in classifying.
+**Landscape of clinical procedures in gastrointestinal vision**. **_Orange_**: Unassisted, a doctor has to assess all patients’ data tediously and redundantly. **_Blue_**: Artificial Intelligence can help in the classification of known or seen diseases but makes misleading assumptions and often overconfident predictions on images when it faces real-world examples consisting of examples that it had never seen. **_Green_**: A combination of human intervention and OOD enabled AI method to improve efficacy in the current scenario, where a specialist intervenes to correct any unseen or unknown instances that the AI model is uncertain in classifying.
 
 
 ## Setup
