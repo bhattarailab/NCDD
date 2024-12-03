@@ -7,9 +7,13 @@
 
 
 ## Setup
+The code to train the models is available in the directory model_training. For OOD calculation and evaluation the code is available in the directory ood with the implementation of our method and other OOD methods we tested.
 
+### Environment
 
-## Environment
+### Datasets
+The two publicly available datasets on which OOD methods are evaluated are![Kvasirv2](https://datasets.simula.no/kvasir/) and ![Gastrovision](https://github.com/DebeshJha/GastroVision).
+
 
 ## Usage
 
