@@ -38,6 +38,6 @@ cd ood
 bash demo_gastro.sh
 ```
 ## Contact
-- ![Sandesh Pokhrel](mailto:sandesh.pokhrel@naamii.org.np)
-- ![Sanjay Bhandari](mailto:sanjay.bhandari@naamii.org.np)
-- ![Binod Bhattarai](mailto:binod.bhattarai@abdn.ac.uk)
+- [Sandesh Pokhrel](mailto:sandesh.pokhrel@naamii.org.np)
+- [Sanjay Bhandari](mailto:sanjay.bhandari@naamii.org.np)
+- [Binod Bhattarai](mailto:binod.bhattarai@abdn.ac.uk)
