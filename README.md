@@ -1,5 +1,5 @@
 # NCDD: Nearest Centroid Distance Deficit
-### The official Pytorch implementation of NCDD: Nearest Centroid Distance Deficit for Out-Of-Distribution Detection in Gastrointestinal Vision paper available ![here](https://arxiv.org/abs/2412.01590).
+### The official Pytorch implementation of NCDD: Nearest Centroid Distance Deficit for Out-Of-Distribution Detection in Gastrointestinal Vision paper available at ![here](https://arxiv.org/abs/2412.01590).
 
 ![Clinical Overview](https://github.com/bhattarailab/NCDD/blob/main/intro.png)
 
@@ -9,14 +9,34 @@
 ## Setup
 The code to train the models is available in the directory model_training. For OOD calculation and evaluation the code is available in the directory ood with the implementation of our method and other OOD methods we tested.
 
+```bash
+git clone https://github.com/bhattarailab/NCDD
+cd NCDD
+```
+
 ### Environment
+The required packages of the environment we used to conduct experiments are listed in requirements.txt
+```bash
+pip install -r requirements.txt
+```
 
 ### Datasets
 The two publicly available datasets on which OOD methods are evaluated are![Kvasirv2](https://datasets.simula.no/kvasir/) and ![Gastrovision](https://github.com/DebeshJha/GastroVision).
 
 
 ## Usage
+To run the ood detection, do the following:
 
+For KVASIR dataset:
+```bash
+cd ood
+bash demo_kvasir.sh
+```
+For Gastrovision dataset:
+```bash
+cd ood
+bash demo_gastro.sh
+```
 ## Contact
 - ![Sandesh Pokhrel](mailto:sandesh.pokhrel@naamii.org.np)
 - ![Sanjay Bhandari](mailto:sanjay.bhandari@naamii.org.np)
