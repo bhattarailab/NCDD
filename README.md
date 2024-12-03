@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ```
 
 ### Datasets
-The two publicly available datasets on which OOD methods are evaluated are![Kvasirv2](https://datasets.simula.no/kvasir/) and ![Gastrovision](https://github.com/DebeshJha/GastroVision).
+The two publicly available datasets on which OOD methods are evaluated are [Kvasirv2](https://datasets.simula.no/kvasir/) and [Gastrovision](https://github.com/DebeshJha/GastroVision).
 
 
 ## Usage
