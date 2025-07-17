@@ -6,6 +6,10 @@
 **Landscape of clinical procedures in gastrointestinal vision**. **_Orange_**: Unassisted, a doctor has to assess all patients’ data tediously and redundantly. **_Blue_**: Artificial Intelligence can help in the classification of known or seen diseases but makes misleading assumptions and often overconfident predictions on images when it faces real-world examples consisting of examples that it had never seen. **_Green_**: A combination of human intervention and OOD enabled AI method to improve efficacy in the current scenario, where a specialist intervenes to correct any unseen or unknown instances that the AI model is uncertain in classifying.
 
 
+### Update
+- Paper accepted at MIUA 2025
+- Nominated for best paper award
+
 ## Setup
 The code to train the models is available in the directory model_training. For OOD calculation and evaluation the code is available in the directory ood with the implementation of our method and other OOD methods we tested.
 
